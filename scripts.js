@@ -29,6 +29,6 @@ console.log (average2(...grades));
 
 const table = [1, 4, 'Iwona', false, 'Nowak'];
 
-const [ , , firstname, , lastname] = fullname;
+const [ , , firstname, , lastname] = table;
 
 console.log(firstname, lastname);
